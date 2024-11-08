@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 20ca10dddf35920479485e7f9d62c30d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MaleControllerAnimations: {fileID: 9100000, guid: 87a82ed9ca03dd344b44b4a499708a0a,
+      type: 2}
+  - FemaleControllerAnimations: {fileID: 9100000, guid: 75e14cd443bac41478c28e91ae95d6d3,
+      type: 2}
+  - ElderControllerAnimations: {fileID: 9100000, guid: 124b95cc5d0cc6c40a498e3a2a0dac36,
+      type: 2}
+  - Crosshair: {fileID: 6265549750235031168, guid: 7c126c6e503240d4f9b90d0551a7630d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
